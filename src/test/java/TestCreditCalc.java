@@ -8,7 +8,7 @@ public class TestCreditCalc {
     int loanPeriod = 12;
     double interestRate = (9.5 / 100) / 12;
     int payment = 8768;
-    int sum = 105220;
+    int sum = 105216;
     int overpayment = sum - loanAmount;
 
     @Before
